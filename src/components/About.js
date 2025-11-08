@@ -6,10 +6,10 @@ export default function About() {
       <h2>About Us</h2>
       <p>
         MindEase is an AI-driven mental wellness platform built for India. Our
-        mission is to reach Tier 1, Tier 2, and rural communities where mental
-        health awareness is limited and English is not the primary language. We
-        deliver affordable and stigma-free support in regional languages —
-        including Hindi, Marathi, Tamil, Telugu, and Bengali.
+        mission is to reach Tier 2, and rural communities where mental health
+        awareness is limited and English is not the primary language. We deliver
+        affordable and stigma-free support in regional languages — including
+        Hindi, Marathi, Tamil, Telugu, and Bengali.
       </p>
 
       <div className="vision-mission">
